@@ -22,7 +22,7 @@ Constam no repositório:
 source myvenv/bin/activate
 python manage.py runserver
 ```
-* acesse 127.0.0.1:8000 para acessar
+* acesse 127.0.0.1:8000
 * dados de Acesso
 
 ```
