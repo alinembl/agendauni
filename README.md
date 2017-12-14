@@ -12,7 +12,7 @@ Você pode encontrar a descrição do projeto em [DescriçÃo do projeto](https:
 Constam no repositório:
 
 * [Descrição dos Casos de Uso](https://github.com/alinembl/agendauni/tree/master/Casos%20de%20Uso)
-* [Diagramas](https://maven.apache.org/) - Casos de uso,DSS e classes conceituais
+* [Diagramas](https://github.com/alinembl/agendauni/tree/master/Diagramas) - Casos de uso,DSS e classes conceituais
 * [Protótipo Funcional](https://github.com/alinembl/agendauni-django) - Protótipo funcional (em Django) do UC03
 
 ### Para funcionamento do protótipo
